@@ -1,0 +1,33 @@
+.body{
+   padding-left: 4px;
+
+}
+
+.all{
+   display: flex;
+  margin: 4px;
+   padding: 2px;
+   border-bottom: 1px solid lightgray;
+   justify-content: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: medium;
+   word-spacing: normal;
+   text-transform: capitalize;
+}
+
+.image1, .image2{
+   width:fit-content;
+   height: 20px;
+
+}
+.image1{
+   padding-block-end: 40px;
+}
+.image2{
+   margin-left: 5px;
+   border-radius: 50%;
+}
+
+a{
+   margin: 3px;
+}
